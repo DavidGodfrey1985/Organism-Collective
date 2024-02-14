@@ -1,0 +1,58 @@
+body{
+  background-color: #000 !important;
+  color: #fff;
+}
+
+.backgroundVideo_background_video_container {
+  height: 100%;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -1000;
+}
+
+.backgroundVideo_background_video {
+  height: 100%;
+  object-fit: cover;
+  width: 100vw;
+}
+
+.jpAJcN {
+  animation-name: cEJqOj;
+  animation-duration: 12040ms;
+  animation-iteration-count: infinite;
+  transform-origin: center center;
+  animation-play-state: running;
+}
+
+.styles_enter_button {
+  left: 60vw;
+  position: fixed;
+  top: 60vh;
+  width: 8vw;
+}
+
+.container{
+  width: 100%;
+  max-width: 4000px !important;
+}
+
+@keyframes cEJqOj {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg);
+}
+30% {
+    transform: translate(-21.3413px, -11.3582px) rotate(0deg);
+}
+60% {
+    transform: translate(-7.95812px, 11.9748px) rotate(0deg);
+}
+90% {
+    transform: translate(-17.5316px, 5.85248px) rotate(0deg);
+}
+100% {
+    transform: translate(0px, 0px) rotate(0deg);
+}
+}
